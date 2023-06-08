@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Compare React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> A simple React landing page built as an experiment to compare to the process of building three identical web pages using Vue, React, and Angular.
 
 ## Available Scripts
 
