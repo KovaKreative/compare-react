@@ -2,6 +2,11 @@
 
 > A simple React landing page built as an experiment to compare to the process of building three identical web pages using Vue, React, and Angular.
 
+All three projects can be found here:
+[Compare Vue](https://github.com/KovaKreative/compare-vue)
+[Compare React](https://github.com/KovaKreative/compare-react)
+[Compare Angular](https://github.com/KovaKreative/compare-angular)
+
 ## Available Scripts
 
 In the project directory, you can run:
