@@ -1,3 +1,4 @@
+// import '../assets/fontawesome/scss/brands.scss'
 
 export default function Footer() {
   return (
@@ -8,9 +9,8 @@ export default function Footer() {
             <p>This is the footer which can give you some information.</p>
           </div>
           <div className="column has-text-right">
-            {/* <FontAwesomeIcon icon={solid("facebook-f")} /> */}
-            {/* <a className="icon has-text-dark" href="#"><i className="fa fa-facebook">F</i></a> */}
-            {/* <a className="icon has-text-dark" href="#"><i className="fa fa-twitter">T</i></a> */}
+            <a className="icon has-text-dark" href="#"><i className="fa-brands fa-facebook"></i></a>
+            <a className="icon has-text-dark" href="#"><i className="fa-brands fa-twitter"></i></a>
           </div>
         </div>
       </div>
